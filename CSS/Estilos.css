@@ -189,3 +189,9 @@ header{
   color: #7a7a7a;
   text-align: center;
 }
+@media all and (max-width: 768px){
+  .center-footer .contenedor{
+    width: 100%;
+    display: block;
+  }
+}
